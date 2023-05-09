@@ -1,4 +1,4 @@
-# Java, algos, ds
+# Java, patterns, algos, ds
 ```
 * * * * * 
 * * * * * 
